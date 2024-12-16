@@ -54,8 +54,7 @@
 
 - **Correo electrónico**: [richardchadp@gmail.com](mailto:richardchadp@gmail.com)
 - **Instagram**: [richard_rcp](https://www.instagram.com/richard_rcp/)
-- **LinkedIn**: (*en construcción, pero podemos incluir el enlace más adelante*)
-
+- **LinkedIn**: https://www.linkedin.com/in/richard-chadwick-plaza-a17b4a203/
 ---
 
 ¡Gracias por visitar mi perfil! Siempre estoy abierto a aprender, colaborar y explorar nuevas oportunidades en el desarrollo de software.
